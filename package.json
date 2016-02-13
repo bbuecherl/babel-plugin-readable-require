@@ -1,0 +1,22 @@
+{
+  "name": "babel-plugin-readable-require",
+  "version": "0.1.0",
+  "description": "Improved import functionality for babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbuecherl/babel-plugin-readable-require.git"
+  },
+  "keywords": [
+    "babel", "plugin", "require"
+  ],
+  "author": "Bernhard Bücherl <bernhard.buecherl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbuecherl/babel-plugin-readable-require/issues"
+  },
+  "homepage": "https://github.com/bbuecherl/babel-plugin-readable-require#readme"
+}
